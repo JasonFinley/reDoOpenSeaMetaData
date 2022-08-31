@@ -1,0 +1,12 @@
+{
+    "description": "Kryptocamp 發行 NFT 並有盲盒功能",
+    "external_url": "https://facebook.com/wualnz",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNqvKQYjtXLppvR3H5K6YTLPxHC4RHa7SX9Yq2PKDoeAP/1.jpg",
+    "name": "Kryptocamp NFT #1",
+    "attributes": [
+        {
+            "trait_type": "Base", 
+            "value": "Beach"
+        }
+    ]
+}
